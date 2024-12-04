@@ -1,0 +1,5 @@
+com\example\accessingdatamysql\DTO\UsuarioDTO.class
+com\example\accessingdatamysql\AccessingDataMysqlApplication.class
+com\example\accessingdatamysql\DTO\User.class
+com\example\accessingdatamysql\controller\MainController.class
+com\example\accessingdatamysql\Repository\UserRepository.class
